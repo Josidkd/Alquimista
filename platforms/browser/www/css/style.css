@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Margarine');
+body{
+	background: #44004a !important;
+	/*color: white !important;*/
+}
+.cabecera{
+	height: 30vh;
+}
+.tituloApartado{
+	height: 3vh !important;
+}
+.nombreRecetas{
+	margin-top: -30px;
+	font-family: 'Margarine', cursive;
+}
+.celda{
+	margin-bottom: 5px;
+	height: 30vh;
+}
+.titulosIcono{
+	margin-top: 10px;
+	color: #d7d949;
+}
+.subApartado{
+	margin-top: 18px;
+	color: #d7d949;
+}
+label,p,h1,h2,h3,h4,h5,h6{
+	color: white !important;
+}
+.letraPequena{
+	margin-top: 2px;
+	font-size: 8px;
+}
+/*Botones*/
+.boton{
+	background-color: #4e0055;
+	border: 1px solid #d7d949;
+	color: #d7d949;
+	width: 100%;
+	padding: 3px;
+	border-radius: 10px;
+	margin-top: 4px;
+}
+.botonAtras{
+	background-color: #d7d949;
+	border: 1px solid #4e0055;
+	color: #4e0055;
+	width: 100%;
+	padding: 3px;
+	border-radius: 10px;
+	margin-top: 4px;
+	margin-bottom: 10px;
+}
+.icono{
+	margin-top: 8px;
+}
+select{
+	width: 100%;
+}
+.tabla{
+	border:1px solid #7b5387;
+	margin-top: -11px;
+}
+.aromas{
+	background-color: #d7d949;
+	color: #44004a !important;
+}
+.botonIndex{
+	margin-top: 5px;
+}
